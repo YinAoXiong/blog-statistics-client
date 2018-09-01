@@ -1,0 +1,23 @@
+{
+  "name": "blog-statistics",
+  "version": "1.0.0-dev",
+  "description": "A static blog statistics expansion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog",
+    "statistics"
+  ],
+  "author": "YinAoXiong <yinaoxiong@gmail.com> (https://blog.yinaoxiong.cn/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinAoXiong/blog-statistics-client.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YinAoXiong/blogStatistics/issues"
+  },
+  "homepage": "https://github.com/YinAoXiong/blogStatistics#readme"
+}
