@@ -45,7 +45,9 @@ function statistics(prop) {
         } else {
             requestUrl += 1;
         }
+        if(statistics.id){
         requestUrl+='&id='+statistics.id;
+        }
         var scriptTag = document.createElement("SCRIPT");
         scriptTag.type = "text/javascript", scriptTag.defer = !0;
         scriptTag.src = requestUrl;
